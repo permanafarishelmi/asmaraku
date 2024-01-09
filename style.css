@@ -25,3 +25,16 @@ body {
     margin-right: auto;
 }
 
+.opat {
+    display: flex;
+    /* flex-wrap: wrap;
+    justify-content: left !important; */
+}
+
+.opat img {
+    width: 23%; /* Atur lebar gambar sesuai kebutuhan, misalnya 23% agar 4 gambar muat dalam satu baris */
+    margin-bottom: 20px;
+    max-width: none;
+    min-width: 120px;
+    
+}
